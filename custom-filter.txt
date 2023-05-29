@@ -1,2 +1,4 @@
 ||cloudfront.net/mp3-ad
 ||adeventtracker.spotify.com
+@@||akamaized.net/audio/*$media,redirect=noop-0.5s.mp3,domain=open.spotify.com
+||akamaized.net/audio/$media,redirect-rule=noop-1s.mp4,domain=open.spotify.com,important
